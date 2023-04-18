@@ -1,0 +1,525 @@
+[Info  - 6:37:37 PM] Server: Betterer server running in node v16.14.2
+[Info  - 6:37:37 PM] Betterer is running.
+[Info  - 6:37:37 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html opened, validating:
+[Info  - 6:37:37 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html" to validation queue at 2023-04-15T21:37:37.907Z
+[Info  - 6:37:37 PM] Server: Processing queue at 2023-04-15T21:37:37.907Z
+[Info  - 6:37:38 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html".
+[Info  - 6:37:38 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:37:38 PM] Validator: About to run Betterer.
+[Info  - 6:37:38 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:37:38 PM] Validator: Betterer isn't installed
+[Info  - 6:38:07 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/app-routing.module.ts opened, validating:
+[Info  - 6:38:07 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app-routing.module.ts" to validation queue at 2023-04-15T21:38:07.419Z
+[Info  - 6:38:07 PM] Server: Processing queue at 2023-04-15T21:38:07.419Z
+[Info  - 6:38:07 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app-routing.module.ts".
+[Info  - 6:38:07 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:38:07 PM] Validator: About to run Betterer.
+[Info  - 6:38:07 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:38:07 PM] Validator: Betterer isn't installed
+[Info  - 6:39:59 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/app-routing.module.ts saved, validating:
+[Info  - 6:39:59 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app-routing.module.ts" to validation queue at 2023-04-15T21:39:59.456Z
+[Info  - 6:39:59 PM] Server: Processing queue at 2023-04-15T21:39:59.456Z
+[Info  - 6:39:59 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app-routing.module.ts".
+[Info  - 6:39:59 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:39:59 PM] Validator: About to run Betterer.
+[Info  - 6:39:59 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:39:59 PM] Validator: Betterer isn't installed
+[Info  - 6:40:36 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/app-routing.module.ts saved, validating:
+[Info  - 6:40:36 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app-routing.module.ts" to validation queue at 2023-04-15T21:40:36.547Z
+[Info  - 6:40:36 PM] Server: Processing queue at 2023-04-15T21:40:36.547Z
+[Info  - 6:40:36 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app-routing.module.ts".
+[Info  - 6:40:36 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:40:36 PM] Validator: About to run Betterer.
+[Info  - 6:40:36 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:40:36 PM] Validator: Betterer isn't installed
+[Info  - 6:42:06 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html opened, validating:
+[Info  - 6:42:06 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T21:42:06.156Z
+[Info  - 6:42:06 PM] Server: Processing queue at 2023-04-15T21:42:06.156Z
+[Info  - 6:42:06 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 6:42:06 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:42:06 PM] Validator: About to run Betterer.
+[Info  - 6:42:06 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:42:06 PM] Validator: Betterer isn't installed
+[Info  - 6:42:31 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 6:42:31 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T21:42:31.178Z
+[Info  - 6:42:31 PM] Server: Processing queue at 2023-04-15T21:42:31.178Z
+[Info  - 6:42:31 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 6:42:31 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:42:31 PM] Validator: About to run Betterer.
+[Info  - 6:42:31 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:42:31 PM] Validator: Betterer isn't installed
+[Info  - 6:45:41 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/package.json opened, validating:
+[Info  - 6:45:41 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/package.json" to validation queue at 2023-04-15T21:45:41.759Z
+[Info  - 6:45:41 PM] Server: Processing queue at 2023-04-15T21:45:41.760Z
+[Info  - 6:45:41 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/package.json".
+[Info  - 6:45:41 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:45:41 PM] Validator: About to run Betterer.
+[Info  - 6:45:41 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:45:42 PM] Validator: Betterer isn't installed
+[Info  - 6:46:15 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/angular.json opened, validating:
+[Info  - 6:46:15 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/angular.json" to validation queue at 2023-04-15T21:46:15.310Z
+[Info  - 6:46:15 PM] Server: Processing queue at 2023-04-15T21:46:15.310Z
+[Info  - 6:46:15 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/angular.json".
+[Info  - 6:46:15 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:46:15 PM] Validator: About to run Betterer.
+[Info  - 6:46:15 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:46:15 PM] Validator: Betterer isn't installed
+[Info  - 6:46:23 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/angular.json saved, validating:
+[Info  - 6:46:23 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/angular.json" to validation queue at 2023-04-15T21:46:23.412Z
+[Info  - 6:46:23 PM] Server: Processing queue at 2023-04-15T21:46:23.412Z
+[Info  - 6:46:23 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/angular.json".
+[Info  - 6:46:23 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:46:23 PM] Validator: About to run Betterer.
+[Info  - 6:46:23 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:46:23 PM] Validator: Betterer isn't installed
+[Info  - 6:46:46 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 6:46:46 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T21:46:46.363Z
+[Info  - 6:46:46 PM] Server: Processing queue at 2023-04-15T21:46:46.363Z
+[Info  - 6:46:46 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 6:46:46 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:46:46 PM] Validator: About to run Betterer.
+[Info  - 6:46:46 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:46:46 PM] Validator: Betterer isn't installed
+[Info  - 6:46:51 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 6:46:51 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T21:46:51.084Z
+[Info  - 6:46:51 PM] Server: Processing queue at 2023-04-15T21:46:51.084Z
+[Info  - 6:46:51 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 6:46:51 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:46:51 PM] Validator: About to run Betterer.
+[Info  - 6:46:51 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:46:51 PM] Validator: Betterer isn't installed
+[Info  - 6:47:08 PM] Server: Clearing diagnostics for "file:///Users/hernannadotti/Projects/ageCalculator/package.json".
+[Info  - 6:47:08 PM] Server: Removing "file:///Users/hernannadotti/Projects/ageCalculator/package.json" from validation queue at 2023-04-15T21:47:08.650Z
+[Info  - 6:47:19 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/angular.json saved, validating:
+[Info  - 6:47:19 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/angular.json" to validation queue at 2023-04-15T21:47:19.235Z
+[Info  - 6:47:19 PM] Server: Processing queue at 2023-04-15T21:47:19.235Z
+[Info  - 6:47:19 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/angular.json".
+[Info  - 6:47:19 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:47:19 PM] Validator: About to run Betterer.
+[Info  - 6:47:19 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:47:19 PM] Validator: Betterer isn't installed
+[Info  - 6:49:44 PM] Server: Environment changed, revalidating all documents:
+[Info  - 6:49:44 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html" to validation queue at 2023-04-15T21:49:44.131Z
+[Info  - 6:49:44 PM] Server: Processing queue at 2023-04-15T21:49:44.131Z
+[Info  - 6:49:44 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html".
+[Info  - 6:49:44 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app-routing.module.ts" to validation queue at 2023-04-15T21:49:44.131Z
+[Info  - 6:49:44 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T21:49:44.131Z
+[Info  - 6:49:44 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/angular.json" to validation queue at 2023-04-15T21:49:44.131Z
+[Info  - 6:49:44 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:49:44 PM] Validator: About to run Betterer.
+[Info  - 6:49:44 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Info  - 6:49:44 PM] Server: waiting for previous validation run to finish:
+[Error - 6:49:44 PM] Validator: Betterer isn't installed
+[Info  - 6:49:44 PM] Server: Processing queue at 2023-04-15T21:49:44.284Z
+[Info  - 6:49:44 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app-routing.module.ts".
+[Info  - 6:49:44 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 6:49:44 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/angular.json".
+[Info  - 6:49:44 PM] Validator: Folders: 1, Documents: 3
+[Info  - 6:49:44 PM] Validator: About to run Betterer.
+[Info  - 6:49:44 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:49:44 PM] Validator: Betterer isn't installed
+[Info  - 6:59:18 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 6:59:18 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T21:59:18.072Z
+[Info  - 6:59:18 PM] Server: Processing queue at 2023-04-15T21:59:18.072Z
+[Info  - 6:59:18 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 6:59:18 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:59:18 PM] Validator: About to run Betterer.
+[Info  - 6:59:18 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:59:18 PM] Validator: Betterer isn't installed
+[Info  - 6:59:21 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss opened, validating:
+[Info  - 6:59:21 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss" to validation queue at 2023-04-15T21:59:21.881Z
+[Info  - 6:59:22 PM] Server: Processing queue at 2023-04-15T21:59:21.881Z
+[Info  - 6:59:22 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss".
+[Info  - 6:59:22 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:59:22 PM] Validator: About to run Betterer.
+[Info  - 6:59:22 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:59:22 PM] Validator: Betterer isn't installed
+[Info  - 6:59:28 PM] Server: Clearing diagnostics for "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss".
+[Info  - 6:59:28 PM] Server: Removing "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss" from validation queue at 2023-04-15T21:59:28.835Z
+[Info  - 6:59:28 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/.editorconfig opened, validating:
+[Info  - 6:59:28 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/.editorconfig" to validation queue at 2023-04-15T21:59:28.878Z
+[Info  - 6:59:28 PM] Server: Processing queue at 2023-04-15T21:59:28.878Z
+[Info  - 6:59:28 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/.editorconfig".
+[Info  - 6:59:28 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:59:28 PM] Validator: About to run Betterer.
+[Info  - 6:59:28 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:59:29 PM] Validator: Betterer isn't installed
+[Info  - 6:59:34 PM] Server: Clearing diagnostics for "file:///Users/hernannadotti/Projects/ageCalculator/.editorconfig".
+[Info  - 6:59:34 PM] Server: Removing "file:///Users/hernannadotti/Projects/ageCalculator/.editorconfig" from validation queue at 2023-04-15T21:59:34.862Z
+[Info  - 6:59:42 PM] Server: Clearing diagnostics for "file:///Users/hernannadotti/Projects/ageCalculator/angular.json".
+[Info  - 6:59:42 PM] Server: Removing "file:///Users/hernannadotti/Projects/ageCalculator/angular.json" from validation queue at 2023-04-15T21:59:42.029Z
+[Info  - 6:59:50 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/app-routing.module.ts saved, validating:
+[Info  - 6:59:50 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app-routing.module.ts" to validation queue at 2023-04-15T21:59:50.432Z
+[Info  - 6:59:50 PM] Server: Processing queue at 2023-04-15T21:59:50.432Z
+[Info  - 6:59:50 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app-routing.module.ts".
+[Info  - 6:59:50 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:59:50 PM] Validator: About to run Betterer.
+[Info  - 6:59:50 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:59:50 PM] Validator: Betterer isn't installed
+[Info  - 6:59:53 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts opened, validating:
+[Info  - 6:59:53 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts" to validation queue at 2023-04-15T21:59:53.284Z
+[Info  - 6:59:53 PM] Server: Processing queue at 2023-04-15T21:59:53.284Z
+[Info  - 6:59:53 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts".
+[Info  - 6:59:53 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:59:53 PM] Validator: About to run Betterer.
+[Info  - 6:59:53 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:59:53 PM] Validator: Betterer isn't installed
+[Info  - 6:59:58 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss opened, validating:
+[Info  - 6:59:58 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss" to validation queue at 2023-04-15T21:59:58.182Z
+[Info  - 6:59:58 PM] Server: Processing queue at 2023-04-15T21:59:58.182Z
+[Info  - 6:59:58 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss".
+[Info  - 6:59:58 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:59:58 PM] Validator: About to run Betterer.
+[Info  - 6:59:58 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:59:58 PM] Validator: Betterer isn't installed
+[Info  - 7:00:00 PM] Server: Clearing diagnostics for "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts".
+[Info  - 7:00:00 PM] Server: Removing "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts" from validation queue at 2023-04-15T22:00:00.068Z
+[Info  - 7:00:21 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss saved, validating:
+[Info  - 7:00:21 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss" to validation queue at 2023-04-15T22:00:21.313Z
+[Info  - 7:00:21 PM] Server: Processing queue at 2023-04-15T22:00:21.313Z
+[Info  - 7:00:21 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss".
+[Info  - 7:00:21 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:00:21 PM] Validator: About to run Betterer.
+[Info  - 7:00:21 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:00:21 PM] Validator: Betterer isn't installed
+[Info  - 7:01:12 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.scss opened, validating:
+[Info  - 7:01:12 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.scss" to validation queue at 2023-04-15T22:01:12.821Z
+[Info  - 7:01:12 PM] Server: Processing queue at 2023-04-15T22:01:12.821Z
+[Info  - 7:01:12 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.scss".
+[Info  - 7:01:12 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:01:12 PM] Validator: About to run Betterer.
+[Info  - 7:01:12 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:01:13 PM] Validator: Betterer isn't installed
+[Info  - 7:01:35 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.scss saved, validating:
+[Info  - 7:01:35 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.scss" to validation queue at 2023-04-15T22:01:35.541Z
+[Info  - 7:01:35 PM] Server: Processing queue at 2023-04-15T22:01:35.541Z
+[Info  - 7:01:35 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.scss".
+[Info  - 7:01:35 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:01:35 PM] Validator: About to run Betterer.
+[Info  - 7:01:35 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:01:35 PM] Validator: Betterer isn't installed
+[Info  - 7:02:04 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.scss saved, validating:
+[Info  - 7:02:04 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.scss" to validation queue at 2023-04-15T22:02:04.198Z
+[Info  - 7:02:04 PM] Server: Processing queue at 2023-04-15T22:02:04.198Z
+[Info  - 7:02:04 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.scss".
+[Info  - 7:02:04 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:02:04 PM] Validator: About to run Betterer.
+[Info  - 7:02:04 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:02:04 PM] Validator: Betterer isn't installed
+[Info  - 7:02:11 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/styles.scss opened, validating:
+[Info  - 7:02:11 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/styles.scss" to validation queue at 2023-04-15T22:02:11.420Z
+[Info  - 7:02:11 PM] Server: Processing queue at 2023-04-15T22:02:11.420Z
+[Info  - 7:02:11 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/styles.scss".
+[Info  - 7:02:11 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:02:11 PM] Validator: About to run Betterer.
+[Info  - 7:02:11 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:02:11 PM] Validator: Betterer isn't installed
+[Info  - 7:03:06 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/styles.scss saved, validating:
+[Info  - 7:03:06 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/styles.scss" to validation queue at 2023-04-15T22:03:06.972Z
+[Info  - 7:03:06 PM] Server: Processing queue at 2023-04-15T22:03:06.972Z
+[Info  - 7:03:06 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/styles.scss".
+[Info  - 7:03:06 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:03:06 PM] Validator: About to run Betterer.
+[Info  - 7:03:06 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:03:07 PM] Validator: Betterer isn't installed
+[Info  - 7:03:43 PM] Server: Clearing diagnostics for "file:///Users/hernannadotti/Projects/ageCalculator/src/styles.scss".
+[Info  - 7:03:43 PM] Server: Removing "file:///Users/hernannadotti/Projects/ageCalculator/src/styles.scss" from validation queue at 2023-04-15T22:03:43.827Z
+[Info  - 7:03:46 PM] Server: Clearing diagnostics for "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.scss".
+[Info  - 7:03:46 PM] Server: Removing "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.scss" from validation queue at 2023-04-15T22:03:46.411Z
+[Info  - 7:03:55 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss saved, validating:
+[Info  - 7:03:55 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss" to validation queue at 2023-04-15T22:03:55.683Z
+[Info  - 7:03:55 PM] Server: Processing queue at 2023-04-15T22:03:55.683Z
+[Info  - 7:03:55 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss".
+[Info  - 7:03:55 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:03:55 PM] Validator: About to run Betterer.
+[Info  - 7:03:55 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:03:55 PM] Validator: Betterer isn't installed
+[Info  - 7:04:04 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss saved, validating:
+[Info  - 7:04:04 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss" to validation queue at 2023-04-15T22:04:04.631Z
+[Info  - 7:04:04 PM] Server: Processing queue at 2023-04-15T22:04:04.631Z
+[Info  - 7:04:04 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss".
+[Info  - 7:04:04 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:04:04 PM] Validator: About to run Betterer.
+[Info  - 7:04:04 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:04:04 PM] Validator: Betterer isn't installed
+[Info  - 7:04:14 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss saved, validating:
+[Info  - 7:04:14 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss" to validation queue at 2023-04-15T22:04:14.680Z
+[Info  - 7:04:14 PM] Server: Processing queue at 2023-04-15T22:04:14.680Z
+[Info  - 7:04:14 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss".
+[Info  - 7:04:14 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:04:14 PM] Validator: About to run Betterer.
+[Info  - 7:04:14 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:04:14 PM] Validator: Betterer isn't installed
+[Info  - 7:05:01 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss saved, validating:
+[Info  - 7:05:01 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss" to validation queue at 2023-04-15T22:05:01.115Z
+[Info  - 7:05:01 PM] Server: Processing queue at 2023-04-15T22:05:01.115Z
+[Info  - 7:05:01 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss".
+[Info  - 7:05:01 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:05:01 PM] Validator: About to run Betterer.
+[Info  - 7:05:01 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:05:01 PM] Validator: Betterer isn't installed
+[Info  - 7:05:15 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss saved, validating:
+[Info  - 7:05:15 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss" to validation queue at 2023-04-15T22:05:15.514Z
+[Info  - 7:05:15 PM] Server: Processing queue at 2023-04-15T22:05:15.514Z
+[Info  - 7:05:15 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss".
+[Info  - 7:05:15 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:05:15 PM] Validator: About to run Betterer.
+[Info  - 7:05:15 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:05:15 PM] Validator: Betterer isn't installed
+[Info  - 7:16:31 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss saved, validating:
+[Info  - 7:16:31 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss" to validation queue at 2023-04-15T22:16:31.369Z
+[Info  - 7:16:31 PM] Server: Processing queue at 2023-04-15T22:16:31.369Z
+[Info  - 7:16:31 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss".
+[Info  - 7:16:31 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:16:31 PM] Validator: About to run Betterer.
+[Info  - 7:16:31 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:16:31 PM] Validator: Betterer isn't installed
+[Info  - 7:16:41 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss saved, validating:
+[Info  - 7:16:41 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss" to validation queue at 2023-04-15T22:16:41.103Z
+[Info  - 7:16:41 PM] Server: Processing queue at 2023-04-15T22:16:41.103Z
+[Info  - 7:16:41 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss".
+[Info  - 7:16:41 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:16:41 PM] Validator: About to run Betterer.
+[Info  - 7:16:41 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:16:41 PM] Validator: Betterer isn't installed
+[Info  - 7:16:49 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss saved, validating:
+[Info  - 7:16:49 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss" to validation queue at 2023-04-15T22:16:49.599Z
+[Info  - 7:16:49 PM] Server: Processing queue at 2023-04-15T22:16:49.599Z
+[Info  - 7:16:49 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.scss".
+[Info  - 7:16:49 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:16:49 PM] Validator: About to run Betterer.
+[Info  - 7:16:49 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:16:49 PM] Validator: Betterer isn't installed
+[Info  - 7:17:18 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:17:18 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:17:18.851Z
+[Info  - 7:17:18 PM] Server: Processing queue at 2023-04-15T22:17:18.851Z
+[Info  - 7:17:18 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:17:18 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:17:18 PM] Validator: About to run Betterer.
+[Info  - 7:17:18 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:17:18 PM] Validator: Betterer isn't installed
+[Info  - 7:17:38 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:17:38 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:17:38.031Z
+[Info  - 7:17:38 PM] Server: Processing queue at 2023-04-15T22:17:38.031Z
+[Info  - 7:17:38 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:17:38 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:17:38 PM] Validator: About to run Betterer.
+[Info  - 7:17:38 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:17:38 PM] Validator: Betterer isn't installed
+[Info  - 7:17:50 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:17:50 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:17:50.100Z
+[Info  - 7:17:50 PM] Server: Processing queue at 2023-04-15T22:17:50.100Z
+[Info  - 7:17:50 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:17:50 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:17:50 PM] Validator: About to run Betterer.
+[Info  - 7:17:50 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:17:50 PM] Validator: Betterer isn't installed
+[Info  - 7:18:07 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:18:07 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:18:07.877Z
+[Info  - 7:18:07 PM] Server: Processing queue at 2023-04-15T22:18:07.878Z
+[Info  - 7:18:07 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:18:07 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:18:07 PM] Validator: About to run Betterer.
+[Info  - 7:18:07 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:18:08 PM] Validator: Betterer isn't installed
+[Info  - 7:18:12 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:18:12 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:18:12.353Z
+[Info  - 7:18:12 PM] Server: Processing queue at 2023-04-15T22:18:12.353Z
+[Info  - 7:18:12 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:18:12 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:18:12 PM] Validator: About to run Betterer.
+[Info  - 7:18:12 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:18:12 PM] Validator: Betterer isn't installed
+[Info  - 7:20:09 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:20:09 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:20:09.594Z
+[Info  - 7:20:09 PM] Server: Processing queue at 2023-04-15T22:20:09.594Z
+[Info  - 7:20:09 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:20:09 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:20:09 PM] Validator: About to run Betterer.
+[Info  - 7:20:09 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:20:09 PM] Validator: Betterer isn't installed
+[Info  - 7:20:33 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:20:33 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:20:33.507Z
+[Info  - 7:20:33 PM] Server: Processing queue at 2023-04-15T22:20:33.507Z
+[Info  - 7:20:33 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:20:33 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:20:33 PM] Validator: About to run Betterer.
+[Info  - 7:20:33 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:20:33 PM] Validator: Betterer isn't installed
+[Info  - 7:20:42 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:20:42 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:20:42.756Z
+[Info  - 7:20:42 PM] Server: Processing queue at 2023-04-15T22:20:42.756Z
+[Info  - 7:20:42 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:20:42 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:20:42 PM] Validator: About to run Betterer.
+[Info  - 7:20:42 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:20:42 PM] Validator: Betterer isn't installed
+[Info  - 7:21:02 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:21:02 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:21:02.632Z
+[Info  - 7:21:02 PM] Server: Processing queue at 2023-04-15T22:21:02.632Z
+[Info  - 7:21:02 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:21:02 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:21:02 PM] Validator: About to run Betterer.
+[Info  - 7:21:02 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:21:02 PM] Validator: Betterer isn't installed
+[Info  - 7:21:17 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:21:17 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:21:17.487Z
+[Info  - 7:21:17 PM] Server: Processing queue at 2023-04-15T22:21:17.487Z
+[Info  - 7:21:17 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:21:17 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:21:17 PM] Validator: About to run Betterer.
+[Info  - 7:21:17 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:21:17 PM] Validator: Betterer isn't installed
+[Info  - 7:21:34 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:21:34 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:21:34.282Z
+[Info  - 7:21:34 PM] Server: Processing queue at 2023-04-15T22:21:34.283Z
+[Info  - 7:21:34 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:21:34 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:21:34 PM] Validator: About to run Betterer.
+[Info  - 7:21:34 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:21:34 PM] Validator: Betterer isn't installed
+[Info  - 7:21:53 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:21:53 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:21:53.114Z
+[Info  - 7:21:53 PM] Server: Processing queue at 2023-04-15T22:21:53.114Z
+[Info  - 7:21:53 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:21:53 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:21:53 PM] Validator: About to run Betterer.
+[Info  - 7:21:53 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:21:53 PM] Validator: Betterer isn't installed
+[Info  - 7:22:03 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:22:03 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:22:03.394Z
+[Info  - 7:22:03 PM] Server: Processing queue at 2023-04-15T22:22:03.394Z
+[Info  - 7:22:03 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:22:03 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:22:03 PM] Validator: About to run Betterer.
+[Info  - 7:22:03 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:22:03 PM] Validator: Betterer isn't installed
+[Info  - 7:22:13 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:22:13 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:22:13.821Z
+[Info  - 7:22:13 PM] Server: Processing queue at 2023-04-15T22:22:13.821Z
+[Info  - 7:22:13 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:22:13 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:22:13 PM] Validator: About to run Betterer.
+[Info  - 7:22:13 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:22:13 PM] Validator: Betterer isn't installed
+[Info  - 7:22:25 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:22:25 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:22:25.591Z
+[Info  - 7:22:25 PM] Server: Processing queue at 2023-04-15T22:22:25.591Z
+[Info  - 7:22:25 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:22:25 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:22:25 PM] Validator: About to run Betterer.
+[Info  - 7:22:25 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:22:25 PM] Validator: Betterer isn't installed
+[Info  - 7:26:34 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts opened, validating:
+[Info  - 7:26:34 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts" to validation queue at 2023-04-15T22:26:34.793Z
+[Info  - 7:26:34 PM] Server: Processing queue at 2023-04-15T22:26:34.793Z
+[Info  - 7:26:34 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts".
+[Info  - 7:26:34 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:26:34 PM] Validator: About to run Betterer.
+[Info  - 7:26:34 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:26:34 PM] Validator: Betterer isn't installed
+[Info  - 7:27:10 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts saved, validating:
+[Info  - 7:27:10 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts" to validation queue at 2023-04-15T22:27:10.584Z
+[Info  - 7:27:10 PM] Server: Processing queue at 2023-04-15T22:27:10.584Z
+[Info  - 7:27:10 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts".
+[Info  - 7:27:10 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:27:10 PM] Validator: About to run Betterer.
+[Info  - 7:27:10 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:27:10 PM] Validator: Betterer isn't installed
+[Info  - 7:30:18 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts saved, validating:
+[Info  - 7:30:18 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts" to validation queue at 2023-04-15T22:30:18.503Z
+[Info  - 7:30:18 PM] Server: Processing queue at 2023-04-15T22:30:18.503Z
+[Info  - 7:30:18 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts".
+[Info  - 7:30:18 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:30:18 PM] Validator: About to run Betterer.
+[Info  - 7:30:18 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:30:18 PM] Validator: Betterer isn't installed
+[Info  - 7:32:21 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:32:21 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:32:21.165Z
+[Info  - 7:32:21 PM] Server: Processing queue at 2023-04-15T22:32:21.165Z
+[Info  - 7:32:21 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:32:21 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:32:21 PM] Validator: About to run Betterer.
+[Info  - 7:32:21 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:32:21 PM] Validator: Betterer isn't installed
+[Info  - 7:35:20 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:35:20 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:35:20.062Z
+[Info  - 7:35:20 PM] Server: Processing queue at 2023-04-15T22:35:20.062Z
+[Info  - 7:35:20 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:35:20 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:35:20 PM] Validator: About to run Betterer.
+[Info  - 7:35:20 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:35:20 PM] Validator: Betterer isn't installed
+[Info  - 7:36:08 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:36:08 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:36:08.879Z
+[Info  - 7:36:08 PM] Server: Processing queue at 2023-04-15T22:36:08.879Z
+[Info  - 7:36:08 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:36:08 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:36:08 PM] Validator: About to run Betterer.
+[Info  - 7:36:08 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:36:09 PM] Validator: Betterer isn't installed
+[Info  - 7:36:28 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.module.ts opened, validating:
+[Info  - 7:36:28 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.module.ts" to validation queue at 2023-04-15T22:36:28.318Z
+[Info  - 7:36:28 PM] Server: Processing queue at 2023-04-15T22:36:28.318Z
+[Info  - 7:36:28 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.module.ts".
+[Info  - 7:36:28 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:36:28 PM] Validator: About to run Betterer.
+[Info  - 7:36:28 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:36:28 PM] Validator: Betterer isn't installed
+[Info  - 7:36:49 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.module.ts saved, validating:
+[Info  - 7:36:49 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.module.ts" to validation queue at 2023-04-15T22:36:49.009Z
+[Info  - 7:36:49 PM] Server: Processing queue at 2023-04-15T22:36:49.009Z
+[Info  - 7:36:49 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.module.ts".
+[Info  - 7:36:49 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:36:49 PM] Validator: About to run Betterer.
+[Info  - 7:36:49 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:36:49 PM] Validator: Betterer isn't installed
+[Info  - 7:37:28 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:37:28 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:37:28.098Z
+[Info  - 7:37:28 PM] Server: Processing queue at 2023-04-15T22:37:28.098Z
+[Info  - 7:37:28 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:37:28 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:37:28 PM] Validator: About to run Betterer.
+[Info  - 7:37:28 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:37:28 PM] Validator: Betterer isn't installed
+[Info  - 7:37:32 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:37:32 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:37:32.509Z
+[Info  - 7:37:32 PM] Server: Processing queue at 2023-04-15T22:37:32.509Z
+[Info  - 7:37:32 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:37:32 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:37:32 PM] Validator: About to run Betterer.
+[Info  - 7:37:32 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:37:32 PM] Validator: Betterer isn't installed
+[Info  - 7:37:35 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:37:35 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:37:35.450Z
+[Info  - 7:37:35 PM] Server: Processing queue at 2023-04-15T22:37:35.450Z
+[Info  - 7:37:35 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:37:35 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:37:35 PM] Validator: About to run Betterer.
+[Info  - 7:37:35 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:37:35 PM] Validator: Betterer isn't installed
+[Info  - 7:37:38 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:37:38 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:37:38.836Z
+[Info  - 7:37:38 PM] Server: Processing queue at 2023-04-15T22:37:38.836Z
+[Info  - 7:37:38 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:37:38 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:37:38 PM] Validator: About to run Betterer.
+[Info  - 7:37:38 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:37:38 PM] Validator: Betterer isn't installed
+[Info  - 7:37:43 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html saved, validating:
+[Info  - 7:37:43 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html" to validation queue at 2023-04-15T22:37:43.075Z
+[Info  - 7:37:43 PM] Server: Processing queue at 2023-04-15T22:37:43.075Z
+[Info  - 7:37:43 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.html".
+[Info  - 7:37:43 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:37:43 PM] Validator: About to run Betterer.
+[Info  - 7:37:43 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:37:43 PM] Validator: Betterer isn't installed
+[Info  - 7:38:28 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts saved, validating:
+[Info  - 7:38:28 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts" to validation queue at 2023-04-15T22:38:28.590Z
+[Info  - 7:38:28 PM] Server: Processing queue at 2023-04-15T22:38:28.590Z
+[Info  - 7:38:28 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/main-screen/main-screen.component.ts".
+[Info  - 7:38:28 PM] Validator: Folders: 1, Documents: 1
+[Info  - 7:38:28 PM] Validator: About to run Betterer.
+[Info  - 7:38:28 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 7:38:28 PM] Validator: Betterer isn't installed
+[Info  - 7:41:13 PM] Betterer stopped.

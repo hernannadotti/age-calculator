@@ -1,0 +1,29 @@
+2023-04-15 18:34:13.116 [info] Starting worker process with pid 15093 (type: fileWatcher, window: 1).
+2023-04-15 18:34:13.987 [info] Deleted from disk wesbos.theme-cobalt2 /Users/hernannadotti/.vscode/extensions/wesbos.theme-cobalt2-2.3.0
+2023-04-15 18:34:14.664 [info] Deleted from disk cyrilletuzi.angular-schematics /Users/hernannadotti/.vscode/extensions/cyrilletuzi.angular-schematics-5.2.8
+2023-04-15 18:34:14.678 [info] Deleted from disk esbenp.prettier-vscode /Users/hernannadotti/.vscode/extensions/esbenp.prettier-vscode-9.9.0
+2023-04-15 18:34:14.694 [info] Deleted from disk redhat.vscode-yaml /Users/hernannadotti/.vscode/extensions/redhat.vscode-yaml-1.10.1
+2023-04-15 18:34:16.041 [info] Deleted from disk christian-kohler.npm-intellisense /Users/hernannadotti/.vscode/extensions/christian-kohler.npm-intellisense-1.4.2
+2023-04-15 18:34:16.043 [info] Deleted from disk atlassian.atlascode /Users/hernannadotti/.vscode/extensions/atlassian.atlascode-2.10.12
+2023-04-15 18:34:16.045 [info] Deleted from disk eamodio.gitlens /Users/hernannadotti/.vscode/extensions/eamodio.gitlens-13.0.4
+2023-04-15 18:34:16.058 [info] Deleted from disk vue.volar /Users/hernannadotti/.vscode/extensions/vue.volar-1.0.9-darwin-x64
+2023-04-15 18:34:17.799 [info] Deleted from disk ms-azuretools.vscode-docker /Users/hernannadotti/.vscode/extensions/ms-azuretools.vscode-docker-1.22.2
+2023-04-15 18:34:17.821 [info] Deleted from disk streetsidesoftware.code-spell-checker /Users/hernannadotti/.vscode/extensions/streetsidesoftware.code-spell-checker-2.11.0
+2023-04-15 18:34:18.090 [info] Getting Manifest... robbowen.synthwave-vscode
+2023-04-15 18:34:18.111 [info] Deleted from disk ms-vsliveshare.vsliveshare-audio /Users/hernannadotti/.vscode/extensions/ms-vsliveshare.vsliveshare-audio-0.1.91
+2023-04-15 18:34:18.186 [info] Deleted from disk visualstudioexptteam.intellicode-api-usage-examples /Users/hernannadotti/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.6
+2023-04-15 18:34:18.603 [info] Deleted from disk visualstudioexptteam.vscodeintellicode /Users/hernannadotti/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.29
+2023-04-15 18:34:18.887 [info] Deleted from disk angular.ng-template /Users/hernannadotti/.vscode/extensions/angular.ng-template-14.2.0
+2023-04-15 18:34:18.925 [info] Installing extension: robbowen.synthwave-vscode
+2023-04-15 18:34:18.978 [info] Deleted from disk octref.vetur /Users/hernannadotti/.vscode/extensions/octref.vetur-0.36.1
+2023-04-15 18:34:19.182 [info] Deleted from disk ms-vscode-remote.remote-containers /Users/hernannadotti/.vscode/extensions/ms-vscode-remote.remote-containers-0.262.3
+2023-04-15 18:34:19.446 [info] Deleted from disk numso.prettier-standard-vscode /Users/hernannadotti/.vscode/extensions/numso.prettier-standard-vscode-0.9.2
+2023-04-15 18:34:19.989 [info] Deleted from disk ms-vsliveshare.vsliveshare /Users/hernannadotti/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5762
+2023-04-15 18:34:22.076 [info] Extracted extension to /Users/hernannadotti/.vscode/extensions/.be784c19-3710-4687-a38d-9f98dbb967f5: robbowen.synthwave-vscode
+2023-04-15 18:34:22.101 [info] Renamed to /Users/hernannadotti/.vscode/extensions/robbowen.synthwave-vscode-0.1.15
+2023-04-15 18:34:22.103 [info] Extracting completed. robbowen.synthwave-vscode
+2023-04-15 18:34:22.127 [info] Extension installed successfully: robbowen.synthwave-vscode
+2023-04-15 18:35:18.229 [info] Worker process with pid 15093 terminated normally (type: fileWatcher, window: 1).
+2023-04-15 18:35:19.155 [info] Starting worker process with pid 15222 (type: fileWatcher, window: 1).
+2023-04-15 18:37:33.931 [info] Worker process with pid 15222 terminated normally (type: fileWatcher, window: 1).
+2023-04-15 18:37:35.277 [info] Starting worker process with pid 15315 (type: fileWatcher, window: 1).

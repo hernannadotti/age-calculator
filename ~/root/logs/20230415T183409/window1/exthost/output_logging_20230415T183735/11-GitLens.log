@@ -1,0 +1,24 @@
+[2023-04-15 21:37:38.997] [GIT  ] [/Users/hernannadotti/Projects/ageCalculator] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 28 ms
+
+[2023-04-15 21:37:39.046] [GIT  ] [/Users/hernannadotti/Projects/ageCalculator/src/app] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 46 ms
+
+[2023-04-15 21:38:09.643] [GIT  ] [/Users/hernannadotti/Projects/ageCalculator/src/app] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 81 ms
+
+[2023-04-15 21:42:06.237] [GIT  ] [/Users/hernannadotti/Projects/ageCalculator/src/app/main-screen] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 24 ms
+
+[2023-04-15 21:45:42.031] [GIT  ] [/Users/hernannadotti/Projects/ageCalculator] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 19 ms
+
+[2023-04-15 21:46:15.376] [GIT  ] [/Users/hernannadotti/Projects/ageCalculator] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 26 ms
+
+[2023-04-15 21:59:22.066] [GIT  ] [/Users/hernannadotti/Projects/ageCalculator/src/app/main-screen] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 25 ms
+
+[2023-04-15 21:59:29.015] [GIT  ] [/Users/hernannadotti/Projects/ageCalculator] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 35 ms
+
+[2023-04-15 21:59:53.384] [GIT  ] [/Users/hernannadotti/Projects/ageCalculator/src/app/main-screen] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 19 ms
+
+[2023-04-15 22:01:12.939] [GIT  ] [/Users/hernannadotti/Projects/ageCalculator/src/app] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 40 ms
+
+[2023-04-15 22:02:11.539] [GIT  ] [/Users/hernannadotti/Projects/ageCalculator/src] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 18 ms
+
+[2023-04-15 22:36:28.403] [GIT  ] [/Users/hernannadotti/Projects/ageCalculator/src/app] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 34 ms
+

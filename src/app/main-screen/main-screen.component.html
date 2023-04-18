@@ -1,0 +1,49 @@
+<div class="container vh-100">
+    <div class="row vh-100">
+        <div class="offset-2 col-8 vh-100 justify-content-center align-items-center d-flex">
+            <div class="card px-5 py-4">
+                <div [formGroup]="dateForm" class="wrapper">
+                  <div class="form-group pt-5">
+                    <!-- <p class="form-text customType" [style.visibility]="this.dateForm.get('day').valid || this.dateForm.get('day').pristine ? 'hidden':'visible'">DAY</p> -->
+                    <p class="form-text customType" [class.warning]="!(this.dateForm.get('day').valid || this.dateForm.get('day').pristine)">DAY</p>
+                    <input type="text" [class.warning]="!(this.dateForm.get('day').valid || this.dateForm.get('day').pristine)" placeholder="DD" class="me-1 mt-2 form-control d-flex" formControlName="day">
+                    <div class="field-error">
+                      <p class="form-text warning" *ngIf="(this.dateForm.get('day').errors?.required  && !this.dateForm.get('day').pristine)">This field is required</p>
+                      <p class="form-text warning" *ngIf="((this.dateForm.get('day').errors?.max || this.dateForm.get('day').errors?.min) && !this.dateForm.get('day').pristine)">Invalid day value</p>
+                      <p class="form-text warning" *ngIf="((this.dateForm.get('day').errors?.maxlength || this.dateForm.get('day').errors?.minlength) && !this.dateForm.get('day').pristine)">Invalid day format</p>
+                    </div>
+                  </div>
+                  <div class="form-group pt-5">
+                    <!-- <p class="form-text customType" [style.visibility]="this.dateForm.get('month').valid || this.dateForm.get('month').pristine ? 'hidden':'visible'">MONTH</p> -->
+                    <p class="form-text customType" [class.warning]="!(this.dateForm.get('month').valid || this.dateForm.get('month').pristine)">MONTH</p>
+                    <input type="text" placeholder="MM" class="me-1 mt-2 form-control d-flex" formControlName="month">
+                    <div class="field-error">
+                      <p class="form-text warning" *ngIf="(this.dateForm.get('month').errors?.required  && !this.dateForm.get('month').pristine)">This field is required</p>
+                      <p class="form-text warning" *ngIf="((this.dateForm.get('month').errors?.max || this.dateForm.get('month').errors?.min)  && !this.dateForm.get('month').pristine)">Invalid month value</p>
+                      <p class="form-text warning" *ngIf="((this.dateForm.get('month').errors?.maxlength || this.dateForm.get('month').errors?.minlength) && !this.dateForm.get('month').pristine)">Invalid day format</p>
+                    </div>
+                  </div>
+                  <div class="form-group pt-5">
+                    <!-- <p class="form-text customType" [style.visibility]="this.dateForm.get('year').valid || this.dateForm.get('year').pristine ? 'hidden':'visible'">YEAR</p> -->
+                    <p class="form-text customType" [class.warning]="!(this.dateForm.get('year').valid || this.dateForm.get('year').pristine)" >YEAR</p>
+                    <input type="text" placeholder="YYYY" class="mt-2 form-control d-flex" formControlName="year">
+                    <div class="field-error">
+                      <p class="form-text warning" *ngIf="(this.dateForm.get('year').errors?.required  && !this.dateForm.get('year').pristine)">This field is required</p>
+                      <p class="form-text warning" *ngIf="((this.dateForm.get('year').errors?.minlength || this.dateForm.get('year').errors?.maxlength) && !this.dateForm.get('year').pristine)">Year must have 4 digits</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="middle d-flex justify-content-around align-items-center">
+                  <hr><a (click)="calculateAge($event)" [class.disable]="!dateForm.valid" class="circle-button"></a>
+                </div>
+                <div class="col-12 px-3 mt-2">
+                  <ul class="show">
+                    <li><span class="time purple me-2" *ngIf="!(dateForm.valid && asked)">--</span><span class="time purple me-3" *ngIf="dateForm.valid && asked">{{years}}</span><span class="time">Years</span></li>
+                    <li><span class="time purple me-2" *ngIf="!(dateForm.valid && asked)">--</span><span class="time purple me-3" *ngIf="dateForm.valid && asked">{{months}}</span><span class="time">Months</span></li>
+                    <li><span class="time purple me-2" *ngIf="!(dateForm.valid && asked)">--</span><span class="time purple me-3" *ngIf="dateForm.valid && asked">{{days}}</span><span class="time">Days</span></li>
+                  </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

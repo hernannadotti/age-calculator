@@ -1,0 +1,32 @@
+[Info  - 6:35:22 PM] Server: Betterer server running in node v16.14.2
+[Info  - 6:35:22 PM] Betterer is running.
+[Info  - 6:35:45 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html opened, validating:
+[Info  - 6:35:45 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html" to validation queue at 2023-04-15T21:35:45.041Z
+[Info  - 6:35:45 PM] Server: Processing queue at 2023-04-15T21:35:45.041Z
+[Info  - 6:35:45 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html".
+[Info  - 6:35:45 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:35:45 PM] Validator: About to run Betterer.
+[Info  - 6:35:45 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:35:45 PM] Validator: Betterer isn't installed
+[Info  - 6:35:45 PM] 
+
+To use Betterer please install it by running "npm install @betterer/cli -D" in the workspace folder "ageCalculator".
+You will need to reopen the workspace after installing Betterer.
+
+Alternatively you can disable Betterer for the workspace folder "ageCalculator" by executing the 'Disable Betterer' command
+  
+[Info  - 6:36:35 PM] Server: file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html saved, validating:
+[Info  - 6:36:35 PM] Server: Adding "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html" to validation queue at 2023-04-15T21:36:35.297Z
+[Info  - 6:36:35 PM] Server: Processing queue at 2023-04-15T21:36:35.298Z
+[Info  - 6:36:35 PM] Server: Validating document "file:///Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html".
+[Info  - 6:36:35 PM] Validator: Folders: 1, Documents: 1
+[Info  - 6:36:35 PM] Validator: About to run Betterer.
+[Info  - 6:36:35 PM] Validator: Getting Betterer for "/Users/hernannadotti/Projects/ageCalculator".
+[Error - 6:36:35 PM] Validator: Betterer isn't installed
+[Info  - 6:37:33 PM] Betterer stopped.
+Uncaught exception received.
+Error: Request betterer/noLibrary failed with message: Canceled
+    at handleResponse (../../../node_modules/vscode-jsonrpc/lib/common/connection.js:477:48)
+    at processMessageQueue (../../../node_modules/vscode-jsonrpc/lib/common/connection.js:292:17)
+    at Immediate.eval (../../../node_modules/vscode-jsonrpc/lib/common/connection.js:276:13)
+    at process.processImmediate (node:internal/timers:466:21)
