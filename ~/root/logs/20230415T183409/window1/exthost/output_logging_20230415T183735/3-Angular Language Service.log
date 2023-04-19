@@ -1,0 +1,11 @@
+[Info  - 6:37:38 PM] Angular language server process ID: 15319
+[Info  - 6:37:38 PM] Using typescript/lib/tsserverlibrary v4.8.2 from /Users/hernannadotti/.vscode/extensions/angular.ng-template-15.2.0/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 6:37:38 PM] Using @angular/language-service v15.2.0 from /Users/hernannadotti/.vscode/extensions/angular.ng-template-15.2.0/node_modules/@angular/language-service/index.js
+[Info  - 6:37:38 PM] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Error - 6:37:40 PM] No config file for /Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html
+[Error - 6:37:40 PM] No config file for /Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html
+[Error - 6:37:40 PM] No config file for /Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html
+[Error - 6:37:40 PM] No config file for /Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html
+[Error - 6:37:40 PM] No config file for /Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html
+[Info  - 6:37:42 PM] Enabling Ivy language service for /Users/hernannadotti/Projects/ageCalculator/tsconfig.json.
+[Error - 6:49:46 PM] No config file for /Users/hernannadotti/Projects/ageCalculator/src/app/app.component.html
