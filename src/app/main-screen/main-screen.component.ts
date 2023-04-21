@@ -41,7 +41,7 @@ export class MainScreenComponent implements OnInit {
     this.dateForm.get('day').setValue('');
   }
 
-  isFuture() {
+  isFuture(): boolean {
     return (moment(this.momDate).isAfter(moment(this.currentDate)))
   }
 
