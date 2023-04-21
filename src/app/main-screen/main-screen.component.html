@@ -5,8 +5,8 @@
                 <div [formGroup]="dateForm" class="wrapper">
                   <div class="form-group pt-1">
                     <!-- <p class="form-text customType" [style.visibility]="this.dateForm.get('day').valid || this.dateForm.get('day').pristine ? 'hidden':'visible'">DAY</p> -->
-                    <p class="form-text customType" [class.warning]="!(this.dateForm.get('day').valid || this.dateForm.get('day').pristine)">DAY</p>
-                    <input type="text" [class.warning]="!(this.dateForm.get('day').valid || this.dateForm.get('day').pristine)" placeholder="DD" class="me-1 mt-2 form-control d-flex" formControlName="day">
+                    <p class="form-text customType" [class.warning]="!(this.dateForm.get('day').valid || this.dateForm.get('day').pristine) || this.dateForm?.errors?.isFuture">DAY</p>
+                    <input type="text" [class.warning]="!(this.dateForm.get('day').valid || this.dateForm.get('day').pristine) || this.dateForm?.errors?.isFuture" placeholder="DD" class="me-1 mt-2 form-control d-flex" formControlName="day">
                     <div class="field-error">
                       <p class="form-text warning" *ngIf="(this.dateForm.get('day').errors?.required  && !this.dateForm.get('day').pristine)">This field is required</p>
                       <p class="form-text warning" *ngIf="((this.dateForm.get('day').errors?.max || this.dateForm.get('day').errors?.min) && !this.dateForm.get('day').pristine && !this.dateForm.get('day').errors?.minlength && !this.dateForm.get('day').errors?.maxlength)">The day number is not between 1-31</p>
@@ -15,8 +15,8 @@
                   </div>
                   <div class="form-group pt-1">
                     <!-- <p class="form-text customType" [style.visibility]="this.dateForm.get('month').valid || this.dateForm.get('month').pristine ? 'hidden':'visible'">MONTH</p> -->
-                    <p class="form-text customType" [class.warning]="!(this.dateForm.get('month').valid || this.dateForm.get('month').pristine)">MONTH</p>
-                    <input type="text" placeholder="MM"  [class.warning]="!(this.dateForm.get('month').valid || this.dateForm.get('month').pristine)" class="me-1 mt-2 form-control d-flex" formControlName="month">
+                    <p class="form-text customType" [class.warning]="!(this.dateForm.get('month').valid || this.dateForm.get('month').pristine) || this.dateForm?.errors?.isFuture">MONTH</p>
+                    <input type="text" placeholder="MM"  [class.warning]="!(this.dateForm.get('month').valid || this.dateForm.get('month').pristine) || this.dateForm?.errors?.isFuture" class="me-1 mt-2 form-control d-flex" formControlName="month">
                     <div class="field-error">
                       <p class="form-text warning" *ngIf="(this.dateForm.get('month').errors?.required  && !this.dateForm.get('month').pristine)">This field is required</p>
                       <p class="form-text warning" *ngIf="((this.dateForm.get('month').errors?.max || this.dateForm.get('month').errors?.min)  && !this.dateForm.get('month').pristine && !this.dateForm.get('month').errors?.minlength && !this.dateForm.get('month').errors?.maxlength)">The month number is not between 1-12</p>
@@ -25,11 +25,12 @@
                   </div>
                   <div class="form-group pt-1">
                     <!-- <p class="form-text customType" [style.visibility]="this.dateForm.get('year').valid || this.dateForm.get('year').pristine ? 'hidden':'visible'">YEAR</p> -->
-                    <p class="form-text customType" [class.warning]="!(this.dateForm.get('year').valid || this.dateForm.get('year').pristine)" >YEAR</p>
-                    <input type="text"  [class.warning]="!(this.dateForm.get('year').valid || this.dateForm.get('year').pristine)" placeholder="YYYY" class="mt-2 form-control d-flex" formControlName="year">
+                    <p class="form-text customType" [class.warning]="!(this.dateForm.get('year').valid || this.dateForm.get('year').pristine) || this.dateForm?.errors?.isFuture" >YEAR</p>
+                    <input type="text" [class.warning]="!(this.dateForm.get('year').valid || this.dateForm.get('year').pristine) || this.dateForm?.errors?.isFuture" placeholder="YYYY" class="mt-2 form-control d-flex" formControlName="year">
                     <div class="field-error">
                       <p class="form-text warning" *ngIf="(this.dateForm.get('year').errors?.required  && !this.dateForm.get('year').pristine)">This field is required</p>
-                      <p class="form-text warning" *ngIf="((this.dateForm.get('year').errors?.minlength || this.dateForm.get('year').errors?.maxlength) && !this.dateForm.get('year').pristine)">Year must have 4 digits</p>
+                      <p class="form-text warning" *ngIf="((this.dateForm.get('year').errors?.minlength || this.dateForm.get('year').errors?.maxlength) && !this.dateForm.get('year').pristine) && !this.dateForm?.errors?.isFuture">Year must have 4 digits</p>
+                      <p class="form-text warning" *ngIf="this.dateForm?.errors?.isFuture">The date is in the future</p>
                     </div>
                   </div>
                 </div>

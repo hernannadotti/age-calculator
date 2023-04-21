@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { FormBuilder, FormControl, FormGroup, Validators } from '@angular/forms';
+import { AbstractControl, FormBuilder, FormControl, FormGroup, ValidationErrors, ValidatorFn, Validators } from '@angular/forms';
 import * as moment from 'moment';
 import { Moment } from 'moment';
 
@@ -30,17 +30,19 @@ export class MainScreenComponent implements OnInit {
 
   calculateAge(event) {
     let date = this.value.year + "-" + this.value.month + "-" + this.value.day;
-      this.momDate = moment(date, 'YYYY/MM/DD');
+    this.momDate = moment(date, 'YYYY/MM/DD');
     this.currentDate = moment();
     this.getYearMonthsDays(this.currentDate, this.momDate);
-    this.asked = true;
-    this.dateForm.markAsPristine();
   }
 
   cleanForm():void {
     this.dateForm.get('year').setValue('');
     this.dateForm.get('month').setValue('');
     this.dateForm.get('day').setValue('');
+  }
+
+  isFuture() {
+    return (moment(this.momDate).isAfter(moment(this.currentDate)))
   }
 
   private configForm() {
@@ -54,21 +56,25 @@ export class MainScreenComponent implements OnInit {
   private initSubscriptions() {
     let date;
     this.dateForm.valueChanges.subscribe((value: any) => {
-      if(this.dateForm.valid) {
-        this.value = value;
-        this.momDate = moment(date, 'YYYY/MM/DD');
-        this.asked = false;
-      }
+      this.value = value;
+      this.momDate = moment(date, 'YYYY/MM/DD');
+      this.asked = false;
     })
   }
 
   private getYearMonthsDays(a, b) {
     if(this.dateForm.valid && moment(a).isValid && moment(b).isValid) {
-      this.years = a.diff(b, 'year');
-      b.add(this.years, 'years');
-      this.months = a.diff(b, 'months');
-      b.add(this.months, 'months');
-      this.days = a.diff(b, 'days');
+      if(!this.isFuture()) {
+        this.years = a.diff(b, 'year');
+        b.add(this.years, 'years');
+        this.months = a.diff(b, 'months');
+        b.add(this.months, 'months');
+        this.days = a.diff(b, 'days');
+        this.dateForm.setErrors(null);
+      } else {
+        this.dateForm.setErrors({ isFuture: true });
+      }
+      this.asked = true;
     }
   }
 }

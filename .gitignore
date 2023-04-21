@@ -48,3 +48,5 @@ Thumbs.db
 #Custom
 ~\root
 ../../angular/cache/*
+../angular/cache/*
+.angular/cache/*
